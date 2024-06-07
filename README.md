@@ -32,3 +32,5 @@ HR analytics aims to answer key questions regarding employee value, retention, a
 
 ## Let's Connect ©
 
+Project Completed by [Prajakta Gaikwad](https://github.com/Gaikwadp629)
+Let's connect over [LinkedIn](https://www.linkedin.com/in/prajakta-gaikwad-33b678198/)
